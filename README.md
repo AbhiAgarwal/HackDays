@@ -19,3 +19,4 @@ Events
 ========
 
 - Friday, 27th of September 2013: Introduction to CSS & HTML
+- Friday, 11th of October 2013: Introduction to Python
