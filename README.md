@@ -9,9 +9,7 @@ HackDays is a meetup based on the philosophies that:
 - When learning to code, the fastest way to learn is to make something,
 - The best way to be introduced to new programming concepts is by interacting with other hackers,
 - You don't have to be a code ninja - a lot of HackDays participants are brand new to programming. There are plenty of experienced CS students and hackers around to help.
-
 - If you're a current college student (CS or otherwise) and want to hang out and hack with others - come to Hackdays!
-
 - If you're attending a Hackday:
 
     Bring a laptop to follow along.
