@@ -11,12 +11,11 @@ HackDays is a meetup based on the philosophies that:
 - You don't have to be a code ninja - a lot of HackDays participants are brand new to programming. There are plenty of experienced CS students and hackers around to help.
 - If you're a current college student (CS or otherwise) and want to hang out and hack with others - come to Hackdays!
 - If you're attending a Hackday:
-
-    Bring a laptop to follow along.
-    Talks always start at 5:30pm.
-    Ask a lot of questions.
+    - Bring a laptop to follow along.
+    - Talks always start at 5:30pm.
+    - Ask a lot of questions.
 
 Events
 ========
 
-Friday, 27th of September 2013: Introduction to CSS & HTML
+- Friday, 27th of September 2013: Introduction to CSS & HTML
