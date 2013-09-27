@@ -1,0 +1,42 @@
+<!--
+
+A descendent Selector allows you to select the "descendents" or "elements" within the class. 
+
+So forexample you have a class "bats", and inside list or element of class "bats" is a <h1> element, and to change this specific header element you're able to do:
+
+Class selector is a dot, as you remember.
+
+-->
+
+<style>
+
+.bats h1 {
+	color: blue;
+	font-size: 50px;
+}
+
+
+/*
+For an ID the syntax usually is:
+
+#IDName elementName {
+	property: value;
+}
+
+For a class the syntax usually is
+
+.className elementName {
+	property: value;
+}
+
+It basically says it is a subtag within the tag <ul> and under the class "bats",
+and the element is <h1>
+
+*/
+
+</style>
+
+<ul class="bats">
+	<li><h1>Hello</h1></li>
+	<li><h2>Not this one!</h2></li>
+</ul>
