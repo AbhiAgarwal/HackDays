@@ -22,3 +22,8 @@ Lets try put in the IP address of the domain "http://nyusw.com": "192.237.249.19
 **Code Validation!!**
 
 If you'd like to verify your code, or there's a mistake you really can't spot - you can go to http://validator.w3.org and click "Validate by Direct Input".
+
+**Guide to using the Guide**
+
+1-16 is HTML
+16 and above is CSS & HTML
