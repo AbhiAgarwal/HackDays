@@ -18,3 +18,4 @@ Lets try put in the IP address of the domain "http://nyusw.com": "192.237.249.19
 1. Make a folder for your website, and name it the project name. 
 2. The main page on your basic HTML website will always be "index.html" (Do NOT change this). By default - the server will send back a file called "index.html", and if it isn't found it'll return "404 not found".
 3. Create sub folders for "css", "images", "javascript", etc. <- according to what you need.
+
