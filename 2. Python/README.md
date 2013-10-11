@@ -37,11 +37,14 @@ How should I learn?
 =====
 
 Basics:
-Codecademy - http://www.codecademy.com/tracks/python (don't spend too long on this!)
-Learn Python the Hard Way - http://learnpythonthehardway.org/
+
+    - Codecademy: http://www.codecademy.com/tracks/python (don't spend too long on this!)
+    - Learn Python the Hard Way - http://learnpythonthehardway.org/
 
 Visual Learner:
-Great Video tutorial by The New Boston: http://thenewboston.org/list.php?cat=36
+
+    - Great Video tutorial by The New Boston: http://thenewboston.org/list.php?cat=36
 
 Online Class:
-Interactive Python on Coursera: https://www.coursera.org/course/interactivepython
+
+    - Interactive Python on Coursera: https://www.coursera.org/course/interactivepython
