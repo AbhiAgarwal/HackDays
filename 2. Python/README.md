@@ -44,4 +44,4 @@ Visual Learner:
 Great Video tutorial by The New Boston: http://thenewboston.org/list.php?cat=36
 
 Online Class:
-Interactive Python on Coursera: https://class.coursera.org/interactivepython
+Interactive Python on Coursera: https://www.coursera.org/course/interactivepython
