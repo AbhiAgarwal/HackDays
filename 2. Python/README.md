@@ -1,3 +1,23 @@
+Python
+=====
+
+Python is an amazing language - It's extremely portable (runs on Linux, Windows, Mac OSX, Android OS and so many more Operating Systems!)
+
+It's easy to learn, and it's extremely simple to start and program. It allows you to do fun things without stressing over the syntax!
+
+It's useful for many different things: from building a website to creating graphical applications to creating art!
+
+Philosophy
+=====
+
+The developers behind Python have a few core aims:
+    
+    - Aim for a simple implementation
+    - "We read Knuth so you don't have to"
+    - Conservative growth
+
+If you write "import this" into your Python program, you'll see what I mean. You'll get all of this soon! :)
+
 Python Libraries
 =====
 
@@ -12,3 +32,16 @@ Example:
 Library called math -> The library has a section called "Powers and Logarithmic Functions" -> In that section is a function called "exp" -> The function takes a number, and evaluates it: e^x and gives it back to you.
 
 This would be like going into the math section of a physical library, finding the "Powers and Logarithmic" book, and finding the equation that solves the exponent problem: especially the e^x problem.
+
+How should I learn?
+=====
+
+Basics:
+Codecademy - http://www.codecademy.com/tracks/python (don't spend too long on this!)
+Learn Python the Hard Way - http://learnpythonthehardway.org/
+
+Visual Learner:
+Great Video tutorial by The New Boston: http://thenewboston.org/list.php?cat=36
+
+Online Class:
+Interactive Python on Coursera: https://class.coursera.org/interactivepython
