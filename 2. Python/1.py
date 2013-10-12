@@ -12,4 +12,4 @@ print "Isn't this easy"
 # You go on the "Terminal" on the Mac OSX
 # or Windows Powershell on Windows
 
-# Then you do: "python {FILENAME.py}" on the Powershell or OSX
+# Then you do: "python hello.py" on the Powershell or OSX

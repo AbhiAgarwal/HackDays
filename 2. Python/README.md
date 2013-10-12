@@ -7,6 +7,11 @@ It's easy to learn, and it's extremely simple to start and program. It allows yo
 
 It's useful for many different things: from building a website to creating graphical applications to creating art!
 
+Questions at any point -
+=====
+
+http://techatnyu.org/chat
+
 Philosophy
 =====
 
