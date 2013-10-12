@@ -1,15 +1,8 @@
 # What is a variable?
 # Variables are just a store of information. 
 
-hello = "Hello"
-
-username = "Batman"
-password = 293019232
-
 pythonString = "Awesome!"
-pythonString2 = 'sdkosd'
 pythonNumber = 2
-pythonNumber2 = "52"
 pythonBoolean = True
 pythonFloat = 12.34519832
 pythonDecimal = 42.5
@@ -19,19 +12,12 @@ variablename = 2
 variablename = 2.5
 
 # What do these things mean?
-
 '''
-
 whatev = "Awesome", basically means that you're putting the STRING 
 "Awesome" into the keyword pythonString
 
 then if you do something like "print pythonString" it will print!
-
 '''
-
-what = "Hello World"
-
-print what
 
 print pythonString # see?
 
@@ -58,11 +44,6 @@ typing out manually "Abhi" each time!
 hello_variable = "goodbye"
 
 print hello_variable
-
-pi = 3.14159265
-
-print 2 * pi
-print 2 * 3.1415
 
 print # creates a blank line :)
 print "Before Change:"
