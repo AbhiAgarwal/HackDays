@@ -45,6 +45,7 @@ Basics:
 
     - Codecademy: http://www.codecademy.com/tracks/python (don't spend too long on this!)
     - Learn Python the Hard Way - http://learnpythonthehardway.org/
+    - Slideshare: http://www.slideshare.net/pydanny/intro-to-python-11186202
 
 Visual Learner:
 
