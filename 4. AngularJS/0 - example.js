@@ -1,0 +1,1 @@
+// Example of simple web application in AngularJS
