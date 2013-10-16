@@ -20,5 +20,5 @@ Events
 
 - Friday, 27th of September 2013: Introduction to CSS & HTML
 - Friday, 11th of October 2013: Introduction to Python
-- Friday, 18th of October 2013: Using Flask to easily create Python web applications, with a guest presenter confirmed: Saikiran Yerram
+- Friday, 18th of October 2013: Using Django to easily create Python web applications, with a guest presenter confirmed: Saikiran Yerram
 - Friday, 25th of October 2013: Using Angular.JS to build client & server-side tools, and hopefully with a Guest Presenter
